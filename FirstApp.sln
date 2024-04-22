@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp.winforms", "FirstA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp.Data", "FirstApp.Data\FirstApp.Data.csproj", "{80603F01-4400-4676-A909-37F164269AA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp.Services", "FirstApp.Services\FirstApp.Services.csproj", "{3FD85411-E4D8-49D8-8C62-5F4662633118}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{80603F01-4400-4676-A909-37F164269AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80603F01-4400-4676-A909-37F164269AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80603F01-4400-4676-A909-37F164269AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD85411-E4D8-49D8-8C62-5F4662633118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD85411-E4D8-49D8-8C62-5F4662633118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD85411-E4D8-49D8-8C62-5F4662633118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD85411-E4D8-49D8-8C62-5F4662633118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
